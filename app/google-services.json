@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940122534964",
+    "project_id": "kutpecalendar",
+    "storage_bucket": "kutpecalendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940122534964:android:6fec35e125f9dd2ab68661",
+        "android_client_info": {
+          "package_name": "kz.sd.kutpecalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_cKnlnGtFnGUNfweBRv2H5hpJpzXLp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

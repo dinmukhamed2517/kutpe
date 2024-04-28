@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"
+        android:title="Home">
+    </item>
+    <item
+        android:id="@+id/wheelFragment"
+        android:enabled="true"
+        android:icon="@drawable/wheel_icon"
+        android:title="Wheel">
+    </item>
+    <item
+        android:id="@+id/notificationFragment"
+        android:enabled="true"
+        android:icon="@drawable/notification_icon"
+        android:title="Notification">
+    </item>
+    <item
+        android:id="@+id/profileFragment"
+        android:enabled="true"
+        android:icon="@drawable/profile_icon"
+        android:title="Profile">
+    </item>
+</menu>

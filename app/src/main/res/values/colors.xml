@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_color">#648DDB</color>
+    <color name="secondary_text">#6F6F70</color>
+    <color name="colorPrimary">#bb273b</color>
+    <color name="schedule_card"> #8572FF</color>
+    <color name="schedule_card_second">#BAB0F9</color>
+    <color name="pink">#DE496E</color>
+    <color name="light_grey">#F1F5F9</color>
+    <color name="grey"> #94A3B8</color>
+
+    <color name="career_card">#FFFBEB</color>
+    <color name="career">#F59E0B</color>
+    <color name="personal_card">#FDF4FF</color>
+    <color name="personal">#701A75</color>
+    <color name="relationship_card">#FEF2F2</color>
+    <color name="relationship">#DC2626</color>
+    <color name="spiritual_card">#F6F6F6</color>
+    <color name="spiritual">#4A4A4A</color>
+    <color name="finance_card">#52AF7F</color>
+    <color name="finance">#B4D8D6</color>
+    <color name="family_card">#F0FFF5</color>
+    <color name="family">#B4D8D6</color>
+    <color name="fun_card">#B4D8D6</color>
+    <color name="fun">#8572FF</color>
+    <color name="health_card">#FF8FAB</color>
+    <color name="health">#DE496E</color>
+</resources>
